@@ -39,15 +39,6 @@ This analysis highlights key trends that can enhance Paisabazaar’s credit asse
 
 ---
 
-## Visualizations
-
-<p align="center">
-  <img src="path_to_image_1" alt="Visualization 1" width="500" />
-  <img src="path_to_image_2" alt="Visualization 2" width="500" />
-</p>
-
----
-
 ## **Technologies Used**
 - **Python**
 - **Pandas**
