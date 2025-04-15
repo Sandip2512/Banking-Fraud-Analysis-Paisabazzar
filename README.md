@@ -1,4 +1,6 @@
-# Banking Fraud Analysis - Paisabazaar
+<p align="center">
+  <h1>Banking Fraud Analysis - Paisabazaar</h1>
+</p>
 
 <p align="center">
   <a href="https://www.almabetter.com/courses/full-stack-data-science">
