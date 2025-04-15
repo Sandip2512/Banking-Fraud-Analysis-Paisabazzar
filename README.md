@@ -35,7 +35,7 @@ Pair plots and correlation heatmaps used to uncover deeper patterns in customer 
 
 ## **Conclusion**
 
-This analysis highlights key trends that can enhance Paisabazaar’s credit assessment models and help reduce fraud risks. Key customer segments were identified for tailored financial products and strategies.
+The analysis provides insights into factors influencing credit scores, highlighting the importance of age, income, credit utilization, and payment history. Key findings include a focus on the 25-45 age group, moderate to high earners, and a balanced credit score distribution. These insights can help Paisabazaar refine credit assessment models, improve risk management, and tailor financial products. Continuous monitoring of credit trends is essential for staying updated with evolving financial landscapes.
 
 ---
 
