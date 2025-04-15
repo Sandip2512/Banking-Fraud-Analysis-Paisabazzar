@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Sandip2512/Play-Store-App-Review-Analysis/blob/main/google%20play.gif?raw=true" alt="Google Play Logo" width="300"/>
+  <img src="https://github.com/Sandip2512/Banking-Fraud-Analysis-Paisabazzar/blob/main/paisabazaar.png" alt="Paisabazaar.com" width="300"/>
 </p>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
