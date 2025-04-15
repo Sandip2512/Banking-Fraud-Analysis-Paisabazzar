@@ -15,7 +15,7 @@
 ## Project Overview
 
 <p align="center">
-  <strong>This project focuses on analyzing customer data from Paisabazaar to gain insights into credit scores, fraud detection, and personalized recommendations.</strong>
+  <strong>This project focuses on analyzing customer data from Paisabazaar to gain insights into credit scores, fraud detection, and personalized recommendations.  </strong>
 </p>
 
 ---
